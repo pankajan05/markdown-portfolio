@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- laptop
+- phone
+- tree
+  - mango tree
+  - apple tree
+  - banjan tree
+-love
